@@ -1,0 +1,12 @@
+body {
+    background-color: #f1f1f5;
+}
+
+.photo img {
+    height: 300px;
+    border-radius: 20px;
+}
+
+.prosto {
+    font-size: 50px;
+}
